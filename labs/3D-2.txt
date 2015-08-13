@@ -1,0 +1,13 @@
+LAB 3 3 3
+floor 1
+_X
+_X
+_X
+floor 2
+_X
+_X
+__
+floor 3
+XOX
+O
+X *

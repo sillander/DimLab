@@ -1,0 +1,6 @@
+For this, you will be
+solving labyrinths.
+The goal is to get to the
+star. Let's start with a
+very simple example:
+Only ONE dimension.

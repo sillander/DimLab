@@ -1,0 +1,7 @@
+In fact, the maze you just
+faced was in 2D! Only, these
+were not the classical XY
+dimensions, but RED and GREEN!
+
+I'll show what this maze
+looks like in XY-dimensions.

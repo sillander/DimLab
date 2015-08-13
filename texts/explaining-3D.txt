@@ -1,0 +1,7 @@
+So, you got it?
+I hope so, because it's
+gonna get harder now!
+
+Let's keep a 3x3x3 maze,
+but a bit more complex
+than the previous one...

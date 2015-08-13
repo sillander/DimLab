@@ -1,0 +1,26 @@
+LAB 3 3 3 2
+
+floor 1 1
+0XG
+0X
+0
+floor 2 1
+XX
+0X
+XX
+floor 3 1
+00X
+0X
+XX
+floor 1 2
+000
+X00
+0XX
+floor 2 2
+XXX
+000
+000
+floor 3 2
+X00
+XX0
+XXX

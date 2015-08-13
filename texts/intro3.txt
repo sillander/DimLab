@@ -1,0 +1,6 @@
+Move around the XY plane
+using the arrows. Ignore
+everything else for now.
+
+You can quit this game at
+any time by pressing START.

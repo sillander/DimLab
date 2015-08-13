@@ -1,0 +1,9 @@
+Logistically speaking, we
+will not add two buttons for
+green motion (it'd be confusing).
+Rather, let's still use the L
+and R button, but choose the color
+to use them in.
+
+It's the brown square in the corner!
+Use A or B to change color...

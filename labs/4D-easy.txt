@@ -1,0 +1,17 @@
+LAB 3 3 2 2
+floor 1 1
+OX/
+OX
+OXX
+floor 1 2
+OXX
+OXX
+OOX
+floor 2 1
+XOX
+XXO
+OOO
+floor 2 2
+O*X
+XXX
+XOO

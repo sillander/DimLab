@@ -1,0 +1,9 @@
+Fortunately, there is a
+solution to the colors problem.
+
+Pressing the X button will filter
+out all the other colors than the
+one currently selected!
+
+Cool, isn't it? Let's try!
+(same maze, different star!)

@@ -1,0 +1,14 @@
+LAB 4 3 3 2
+floor 1 1
+-XXX
+-XXX
+-XXX
+floor 2 1
+-XXX
+-X*X
+-XXX
+floor 3 1
+-XXX
+-XXX
+-XXX
+# no blocks in green dimension!

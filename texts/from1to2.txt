@@ -1,0 +1,7 @@
+Well, that was pretty easy.
+As you see, 1D is boring, so
+let us add one dimension.
+
+2D is pretty common in life:
+cartoons, comics, or images on
+a computer screen, i.e.

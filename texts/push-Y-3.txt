@@ -1,0 +1,8 @@
+The rotation button (Y)
+alters the dimensions used
+as XY axis. It is a very
+confusing tool, but holds a 
+lot of power.
+
+Try it on the same maze 
+as before!

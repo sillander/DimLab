@@ -1,0 +1,7 @@
+LAB 5 4 1
+# a (little little) bit more complicated?
+floor 1
+_X___
+_X_X*
+_X__X
+___XX

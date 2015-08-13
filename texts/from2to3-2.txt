@@ -1,0 +1,6 @@
+Let's add a dimension!
+Let's call this dimension RED.
+Black is a red dimension of 0,
+and the brighter the red, the
+higher the object is in the red
+dimension.

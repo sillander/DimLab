@@ -1,0 +1,24 @@
+LAB 4 4 4
+floor 1
+OXXX
+XOXX
+XOXX
+XOXX
+
+floor 2
+OXOX
+XOOX
+XXXO
+X0O0
+
+floor 3
+OOOX
+XXXX
+000O
+XXXX
+
+floor 4
+OXXX
+XXXX
+0XXX
+0OO*

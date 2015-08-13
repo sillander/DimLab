@@ -1,0 +1,3 @@
+Not too hard, right?
+Now keep this map in mind,
+and redo the RED-GREEN maze.

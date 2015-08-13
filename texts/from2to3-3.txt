@@ -1,0 +1,8 @@
+Of course, we will not display
+all the blocks: only the redder
+one in the contiguous block,
+above you if you can't go there,
+below you if you can.
+
+This might sound confusing: so,
+no more text, time for action!

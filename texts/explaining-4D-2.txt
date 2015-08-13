@@ -1,0 +1,8 @@
+But there is another problem.
+The colors mix up, and it is
+hard to understand how far you
+are in both directions.
+Or rather, it will be in larger
+mazes (with more stages in RED
+and GREEN dimensions: here there
+were only two...)

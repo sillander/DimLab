@@ -1,0 +1,8 @@
+We will call this dimension
+GREEN. But what does our colors
+code become, then, with two colors?
+
+We will simply ADD the colors. Just
+keep in mind that R+G = Yellow (it
+is positive addition), and you'll
+be fine.

@@ -1,0 +1,9 @@
+Well, let's test your
+recent knowledge with 
+this maze. The idea is
+the same.
+
+Except the maze has BLUE
+and RED dimensions of depth 3.
+
+You'll understand.
